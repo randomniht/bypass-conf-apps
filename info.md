@@ -1,8 +1,16 @@
 ==app==
 https://github.com/2dust/v2rayN/releases
 nekobox +-
-
-
+flclashx
+https://aur.archlinux.org/packages/flclashx-bin
+https://aur.archlinux.org/packages/flclashx-git
+==
+sub converter subscribe clash
+https://sub.com.mp/
+example
+https://arx.cc/
+https://arx.cc/https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+==
 ==conf==
 https://github.com/igareck/vpn-configs-for-russia
 https://github.com/zieng2/wl
