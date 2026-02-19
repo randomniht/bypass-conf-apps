@@ -13,6 +13,7 @@ https://arx.cc/https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/
 ==
 ==conf==
 
+https://github.com/jsxta/whitelist-russia
 https://gbr.mydan.online/configs
 https://github.com/igareck/vpn-configs-for-russia
 https://github.com/zieng2/wl
