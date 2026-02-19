@@ -12,6 +12,8 @@ https://arx.cc/
 https://arx.cc/https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt
 ==
 ==conf==
+
+https://gbr.mydan.online/configs
 https://github.com/igareck/vpn-configs-for-russia
 https://github.com/zieng2/wl
 https://github.com/whoahaow/rjsxrd
