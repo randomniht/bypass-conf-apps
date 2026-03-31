@@ -48,6 +48,32 @@
 
 - **Комплексные конфиги для России**  
   https://github.com/igareck/vpn-configs-for-russia
+  
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile-2.txt
+
+https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt
+
+https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/WHITE-CIDR-RU-all.txt
+
+https://rawcdn.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
+
+https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
+
+
 
 - **Дополнительные whitelist‑подборки**  
   https://github.com/zieng2/wl
