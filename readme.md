@@ -48,6 +48,7 @@
 
 - **Комплексные конфиги для России**  
   https://github.com/igareck/vpn-configs-for-russia
+  https://github.com/zieng2/wl
   
 https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
 
