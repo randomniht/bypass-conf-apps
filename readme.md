@@ -105,6 +105,10 @@ sudo systemctl stop v2raya xray
   https://github.com/igareck/vpn-configs-for-russia
   https://github.com/zieng2/wl
   
+- **Alley.serv00**  
+  https://alley.serv00.net/1  
+  https://alley.serv00.net/2
+  
 https://cdn.jsdelivr.net/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
 
 https://cdn.statically.io/gh/igareck/vpn-configs-for-russia@main/Vless-Reality-White-Lists-Rus-Mobile.txt
